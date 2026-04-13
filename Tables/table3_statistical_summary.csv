@@ -1,0 +1,10 @@
+,Count,Mean,Std Dev,Min,Median,Max
+GDP_Change_%,100000.0,-31.61,18.12,-85.0,-29.7,-5.0
+Inflation_Rate_%,100000.0,69.95,35.05,0.03,69.29,295.56
+Currency_Devaluation_%,100000.0,87.58,55.63,0.03,76.68,528.4
+Poverty_Rate_Spike_%,100000.0,11.56,10.79,0.19,8.39,84.47
+Unemployment_Spike_Percentage_Points,100000.0,13.61,11.96,0.32,10.22,74.47
+Duration_in_years,100000.0,9.64,8.49,1.0,6.0,30.0
+Black_Market_Activity_Level,100000.0,2.5,1.12,1.0,3.0,4.0
+Informal_Economy_Size_Spike_%,100000.0,26.78,15.2,2.03,24.16,59.97
+Reconstruction_Cost_Ratio_USD,100000.0,2.75,0.72,1.5,2.75,4.0
