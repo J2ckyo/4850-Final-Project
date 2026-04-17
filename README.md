@@ -3,7 +3,7 @@
 
 > A full data science pipeline exploring the economic footprint of armed conflict across 100,000 observations — from raw data to predictive modelling.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.13.9-blue)
 ![pandas](https://img.shields.io/badge/pandas-data--wrangling-lightgrey)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 ![rows](https://img.shields.io/badge/dataset-100%2C000%20rows-green)
