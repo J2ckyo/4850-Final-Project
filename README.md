@@ -51,7 +51,7 @@ The complete, fully-runnable analysis notebook. Executes end-to-end from raw CSV
 
 ---
 
-### 📄 `Written_Report.txt` — *Written report*
+### 📄 `Written_Report.ipynb` — *Written report*
 A concise written report covering every section of the project in plain language. Structured for a non-technical audience portraying the findings, results, and what they mean in practice.
 
 - Project Overview — dataset, questions, feature engineering
@@ -59,6 +59,14 @@ A concise written report covering every section of the project in plain language
 - Statistical Results — all three tests with effect sizes
 - Model Performance Table — regression and classification metrics
 - Interpretation & Conclusion — findings, limitations, and next steps
+
+---
+
+### 🤖 `AI_Appendix.ipynb` — *AI Appendix*
+A short written report covering the use of AI for academic integrity and transparency. 
+
+- How AI Tools Were Used — boilerplate & repetitive writing, plot enhancements, report structuring
+- What I wrote — Data pipeline including, data wrangling & feature engineering, EDA, statistical tests, machine learning pipeline, K-means clustering, and all analytical findings. 
 
 ---
 
