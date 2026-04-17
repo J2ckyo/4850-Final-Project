@@ -30,7 +30,7 @@
 ## Repository Files
 
 ### 📋 `Final_Project_Description.ipynb` — *Start here*
-The original project brief from the course marker. Contains all formal requirements, grading criteria, and deliverable specifications. Read this first to understand what the project is evaluating and why each section exists.
+The project brief from the course Data Science 4850. Contains all formal requirements, grading criteria, and deliverable specifications. Read this first to understand what the project is evaluating and why each section exists.
 
 - Dataset requirements and minimum thresholds
 - Wrangling, EDA, and modelling specifications
@@ -52,7 +52,7 @@ The complete, fully-runnable analysis notebook. Executes end-to-end from raw CSV
 ---
 
 ### 📄 `Written_Report.txt` — *Written report*
-A concise written report covering every section of the project in plain language. Structured for a non-technical audience — no code, just findings, results, and what they mean in practice.
+A concise written report covering every section of the project in plain language. Structured for a non-technical audience portraying the findings, results, and what they mean in practice.
 
 - Project Overview — dataset, questions, feature engineering
 - Key Visuals — purpose and finding for each figure
@@ -64,9 +64,9 @@ A concise written report covering every section of the project in plain language
 
 ## Pipeline
 
-```
+
 Data Wrangling → EDA → Hypothesis Testing → Regression → Classification → Clustering → Interpretation
-```
+
 
 ---
 
@@ -106,11 +106,11 @@ Data Wrangling → EDA → Hypothesis Testing → Regression → Classification 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/student/war-economic-impact
-cd war-economic-impact
+git clone https://github.com/J2ckyo/4850-Final-Project.git
+cd 4850-Final-Project
 
 # 2. Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn scipy
+pip install pandas numpy matplotlib seaborn scikit-learn
 
 # 3. Place the dataset in the project root
 #    war_economic_impact_dataset.csv
@@ -130,4 +130,4 @@ jupyter notebook Project_Code.ipynb
 
 ---
 
-*Python · pandas · scikit-learn · seaborn · scipy*
+*Python · pandas · scikit-learn · seaborn*
