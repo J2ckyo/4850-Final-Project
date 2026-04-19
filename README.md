@@ -14,7 +14,7 @@
 
 | | |
 |---|---|
-| **Dataset** | `![war_economic_impact_dataset.csv](https://www.kaggle.com/datasets/likithagedipudi/war-economic-and-livelihood-impact-dataset)` — 100,000 rows, 35 features (28 original) |
+| **Dataset** | ![war_economic_impact_dataset.csv](https://www.kaggle.com/datasets/likithagedipudi/war-economic-and-livelihood-impact-dataset) — 100,000 rows, 35 features (28 original) |
 | **Regions** | Africa · East Asia · Europe · Middle East · South Asia |
 | **Conflict Types** | Asymmetric War · Civil War · Interstate War · Counter-insurgency · World War |
 | **Years Covered** | 1939 – 2026 |
