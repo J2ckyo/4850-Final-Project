@@ -7,7 +7,7 @@
 ![pandas](https://img.shields.io/badge/pandas-data--wrangling-lightgrey)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 ![rows](https://img.shields.io/badge/dataset-100%2C000%20rows-green)
-![GitHub](https://github.com/J2ckyo/4850-Final-Project)
+[![GitHub](https://img.shields.io/badge/GitHub-4850--Final--Project-181717?logo=github)](https://github.com/J2ckyo/4850-Final-Project)
 
 ---
 
